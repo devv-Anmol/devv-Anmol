@@ -6,6 +6,8 @@
 [![Dev Club](https://img.shields.io/badge/Dev%20Club-Active-ff5e3a?style=flat&logo=github&logoColor=white)](https://github.com/devv-Anmol)
 [![Status](https://img.shields.io/badge/Status-Starter-4b0082?style=flat&logo=github&logoColor=white)](https://github.com/devv-Anmol/dev_club-repo-boot)
 
+![Name heading](./assets/name_heading.svg)
+
 # dev_club-repo-boot
 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)

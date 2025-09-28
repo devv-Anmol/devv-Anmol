@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
+  <style>
+    .name { font: 700 48px 'Bebas Neue', Impact, 'Segoe UI Black', sans-serif; fill: #ffffff; stroke: #ff5e3a; stroke-width: 1.2; }
+    .sub { font: 400 16px 'Poppins', Roboto, Arial, sans-serif; fill: #ffd8c2; }
+  </style>
+  <rect width="100%" height="100%" fill="transparent" />
+  <text x="20" y="60" class="name">Anmol Gautam</text>
+  <text x="20" y="92" class="sub">Maintainer · Dev Club</text>
+</svg>
