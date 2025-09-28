@@ -3,12 +3,14 @@
 
 <!-- Short, colorful Dev Club starter README. Using badges for color because GitHub strips inline styles. -->
 
-[![Dev Club](https://img.shields.io/badge/Dev%20Club-Active-brightgreen?style=flat)](https://github.com/devv-Anmol)
-[![Status](https://img.shields.io/badge/Status-Starter-blue?style=flat)](https://github.com/devv-Anmol/dev_club-repo-boot)
+[![Dev Club](https://img.shields.io/badge/Dev%20Club-Active-ff5e3a?style=flat&logo=github&logoColor=white)](https://github.com/devv-Anmol)
+[![Status](https://img.shields.io/badge/Status-Starter-4b0082?style=flat&logo=github&logoColor=white)](https://github.com/devv-Anmol/dev_club-repo-boot)
 
 # dev_club-repo-boot
 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+![High five GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 A concise starter repo for Dev Club projects — clear onboarding, simple workflow, and room to grow. 🤖
 
