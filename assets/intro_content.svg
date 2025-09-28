@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
+  <style>
+    .headline { font: 700 36px 'Bebas Neue', Impact, 'Segoe UI Black', sans-serif; fill: #00e5ff; stroke: #002b36; stroke-width: 0.8; }
+    .sub { font: 400 18px 'Poppins', Roboto, Arial, sans-serif; fill: #c7fff4; }
+  </style>
+  <rect width="100%" height="100%" fill="transparent" />
+  <text x="20" y="44" class="headline">A concise starter repo for Dev Club projects</text>
+  <text x="20" y="78" class="sub">Clear onboarding, simple workflow, and room to grow. 🤖</text>
+</svg>

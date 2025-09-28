@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160">
+  <style>
+    .title { font: 700 40px 'Bebas Neue', Impact, 'Segoe UI Black', sans-serif; fill: #ff6f00; }
+    .bullet { font: 400 20px 'Poppins', Roboto, Arial, sans-serif; fill: #ffb86b; }
+  </style>
+  <rect width="100%" height="100%" fill="transparent" />
+  <text x="20" y="48" class="title">Goals 🚀</text>
+  <text x="40" y="88" class="bullet">• Fast onboarding for workshops & hack nights.</text>
+  <text x="40" y="112" class="bullet">• Teach good collaboration (branches, PRs, reviews).</text>
+  <text x="40" y="136" class="bullet">• Be adaptable to any stack (Node, Python, web, mobile).</text>
+</svg>

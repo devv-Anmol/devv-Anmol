@@ -12,13 +12,9 @@
 
 ![High five GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-A concise starter repo for Dev Club projects — clear onboarding, simple workflow, and room to grow. 🤖
+![Intro content](./assets/intro_content.svg)
 
-## Goals
-
-- Fast onboarding for workshops & hack nights.
-- Teach good collaboration (branches, PRs, reviews).
-- Be adaptable to any stack (Node, Python, web, mobile).
+![Goals block](./assets/section_goals.svg)
 
 ## Quick start
 
